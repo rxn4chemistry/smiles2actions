@@ -1,0 +1,100 @@
+ADD $3$ ; ADD $1$ ; ADD $2$ ; ADD $6$ ; ADD $7$ ; ADD $5$ ; REFLUX for @4@ ; ADD $1$ ; REFLUX for @3@ ; ADD $4$ ; DRYSOLUTION over magnesium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $3$ ; ADD $2$ ; ADD $4$ ; MICROWAVE for @2@ at #6# ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $4$ ; ADD $1$ ; ADD $5$ ; ADD $2$ ; STIR for @4@ at #5# ; SETTEMPERATURE #4# ; ADD $3$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $1$ ; ADD $5$ ; STIR for @2@ at #4# ; ADD $4$ ; EXTRACT with ethyl acetate ; COLLECTLAYER aqueous ; PH with HCl to pH acidic ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over MgSO4 ; CONCENTRATE ; YIELD $-1$
+ADD $4$ ; ADD $3$ ; SETTEMPERATURE #3# ; STIR for @1@ ; ADD $2$ ; STIR for @1@ ; MAKESOLUTION with $1$ and $3$ ; ADD SLN dropwise ; STIR for @3@ ; ADD $5$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with sodium chloride ; DRYSOLUTION over sodium sulfate ; FILTER keep filtrate ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $1$ ; STIR for @4@ at #6# ; ADD $4$ ; CONCENTRATE ; TRITURATE with diisopropyl ether ; FILTER keep precipitate ; WASH with diisopropyl ether ; DRYSOLID ; YIELD $-1$
+ADD $3$ ; ADD $4$ ; ADD $2$ ; ADD $1$ ; STIR for @2@ at #4# ; ADD $5$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with $5$ ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $5$ ; ADD $4$ ; ADD $1$ ; STIR for @2@ at #4# ; ADD $3$ ; ADD $6$ ; PHASESEPARATION ; COLLECTLAYER aqueous ; EXTRACT with $3$ ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over magnesium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; SETTEMPERATURE #3# ; ADD $3$ dropwise over @2@ ; CONCENTRATE ; DRYSOLID under vacuum ; YIELD $-1$
+ADD $1$ ; ADD $6$ ; ADD $3$ at #3# ; ADD $2$ at #3# ; ADD $5$ at #4# ; STIR for @4@ at #4# ; ADD $4$ ; WASH with sodium hydroxide ; WASH with water ; CONCENTRATE ; PURIFY ; COLLECTLAYER organic ; CONCENTRATE ; ADD TFA ; STIR for @2@ at #4# ; CONCENTRATE ; ADD HCl ; YIELD $-1$
+ADD $2$ ; ADD $4$ ; ADD $1$ ; MAKESOLUTION with $1$ and $5$ ; ADD SLN dropwise at #6# over @1@ ; STIR for @2@ at #6# ; ADD $3$ ; EXTRACT with dichloromethane ; COLLECTLAYER organic ; DRYSOLUTION over sodium sulfate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; STIR for @2@ at #5# ; SETTEMPERATURE #4# ; CONCENTRATE ; ADD NaHCO3 ; EXTRACT with ethyl acetate ; WASH with brine ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; STIR for @2@ at #5# ; ADD $3$ / carbon ; STIR for @3@ at #5# ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $1$ ; STIR ; CONCENTRATE ; WASH with ether ; YIELD $-1$
+ADD $3$ ; ADD triethylamine ; ADD $1$ ; ADD $2$ ; STIR for @4@ at #4# ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $4$ ; ADD $1$ ; ADD $3$ ; ADD $2$ ; REFLUX for @4@ ; CONCENTRATE ; ADD diisopropyl ether ; FILTER keep precipitate ; WASH with diisopropyl ether ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; MAKESOLUTION with $4$ and $3$ ; ADD SLN ; STIR for @1@ at #5# ; CONCENTRATE ; ADD $3$ ; PH with HCl to pH acidic ; EXTRACT with dichloromethane ; COLLECTLAYER organic ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $4$ ; ADD $6$ ; ADD $2$ ; MICROWAVE for @1@ at #6# ; SETTEMPERATURE #4# ; ADD $5$ ; PH with $3$ to pH neutral ; FILTER keep precipitate ; WASH with ethyl acetate ; WASH with acetonitrile ; DRYSOLID for @4@ at #5# ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $1$ ; ADD $4$ ; REFLUX for @2@ ; FILTER keep filtrate ; CONCENTRATE ; ADD ethyl acetate ; EXTRACT with water ; PHASESEPARATION ; COLLECTLAYER aqueous ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; REFLUX for @4@ ; FILTER keep precipitate ; WASH with $3$ ; COLLECTLAYER organic ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $1$ ; STIR for @2@ at #6# ; CONCENTRATE ; ADD DMSO ; FILTER keep filtrate ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; WAIT for @2@ at #4# ; CONCENTRATE ; PH with HCl to pH acidic ; YIELD $-1$
+ADD $5$ ; ADD $4$ ; ADD $1$ ; ADD $3$ ; ADD $2$ ; STIR for @5@ at #4# ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ ; ADD $4$ ; REFLUX for @3@ ; SETTEMPERATURE #4# ; ADD $5$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over magnesium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $1$ at #4# ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; ADD ice water ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; CONCENTRATE ; PURIFY ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $6$ ; ADD $3$ ; ADD $1$ ; STIR for @4@ at #4# ; ADD $5$ ; ADD $4$ ; PHASESEPARATION ; COLLECTLAYER aqueous ; EXTRACT with $4$ ; COLLECTLAYER organic ; WASH with sodium chloride ; DRYSOLUTION over sodium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $-1$ ; ADD $2$ ; ADD $4$ ; REFLUX for @3@ ; SETTEMPERATURE #4# ; ADD $3$ ; FILTER keep filtrate
+ADD $1$ ; ADD $2$ ; SETTEMPERATURE #3# ; STIR for @2@ ; CONCENTRATE ; PARTITION with NaHCO3 and ethyl acetate ; PHASESEPARATION ; COLLECTLAYER organic ; DRYSOLUTION over MgSO4 ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $5$ ; ADD $4$ ; ADD $1$ ; STIR for @4@ at #4# ; ADD $3$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; STIR for @2@ at #4# ; FILTER keep filtrate ; WASH with $1$ ; CONCENTRATE ; YIELD $-1$
+ADD $5$ ; ADD $1$ ; ADD $6$ at #4# ; ADD $2$ at #4# ; PH with $6$ to pH basic ; STIR for @2@ at #4# ; STIR for @3@ at #4# ; FILTER keep precipitate ; WASH with $1$ ; ADD $3$ ; ADD $4$ ; STIR for @2@ at #4# ; CONCENTRATE ; CONCENTRATE ; ADD $3$ ; FILTER keep precipitate ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; STIR for @4@ at #4# ; WAIT for @4@ at #4# ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $6$ ; ADD $2$ ; ADD $5$ ; ADD $3$ ; ADD $4$ ; ADD $1$ ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $4$ ; SETTEMPERATURE #3# ; ADD $3$ over @2@ ; STIR for @4@ at #4# ; CONCENTRATE ; ADD dichloromethane ; ADD potassium carbonate ; STIR for @3@ at #4# ; COLLECTLAYER organic ; DRYSOLUTION over MgSO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; SETTEMPERATURE #1# ; MAKESOLUTION with $1$ and $3$ ; ADD SLN ; STIR for @1@ at #4# ; STIR for @2@ at #5# ; WAIT for @2@ at #5# ; PH with $4$ to pH basic ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over MgSO4 ; FILTER keep filtrate ; CONCENTRATE ; YIELD $-1$
+ADD $1$ ; ADD $3$ ; ADD $2$ at #4# ; STIR for @3@ at #6# ; PARTITION with ethyl acetate and sodium chloride ; COLLECTLAYER organic ; WASH with NaHCO3 ; WASH with sodium chloride ; DRYSOLUTION over sodium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $5$ ; ADD $2$ ; ADD $3$ ; STIR for @3@ at #5# ; SETTEMPERATURE #4# ; ADD $4$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over magnesium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $1$ ; STIR for @2@ at #4# ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $4$ ; ADD $1$ ; ADD $3$ at #1# ; STIR for @1@ ; ADD $2$ ; ADD $1$ dropwise ; STIR for @2@ ; STIR for @4@ at #4# ; ADD $5$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with water ; DRYSOLUTION over MgSO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $4$ ; ADD $2$ ; ADD $1$ ; STIR for @1@ at #4# ; FILTER keep precipitate ; WASH with $1$ ; CONCENTRATE ; COLLECTLAYER organic ; ADD dichloromethane ; FILTER keep precipitate ; WASH with dichloromethane ; DRYSOLID at #5# under vacuum ; YIELD $-1$
+ADD $1$ ; ADD $6$ ; ADD $4$ ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; ADD $2$ ; WASH with water ; COLLECTLAYER aqueous ; EXTRACT with $2$ ; COLLECTLAYER organic ; WASH with water ; DRYSOLUTION over MgSO4 ; CONCENTRATE ; MAKESOLUTION with $5$ and $3$ ; ADD SLN ; CONCENTRATE ; YIELD $-1$
+ADD $4$ ; ADD $2$ ; ADD $3$ ; STIR for @4@ at #4# ; CONCENTRATE ; ADD $1$ ; REFLUX for @1@ ; PHASESEPARATION ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ ; SETTEMPERATURE #5# ; ADD $4$ ; STIR for @1@ ; CONCENTRATE ; STIR for @2@ ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $3$ ; WAIT for @4@ ; CONCENTRATE ; YIELD $-1$
+ADD $1$ ; ADD $4$ ; ADD $5$ dropwise ; MAKESOLUTION with $3$ and $4$ ; ADD SLN dropwise at #4# over @2@ ; PH with $2$ to pH acidic ; STIR for @2@ at #4# ; ADD $5$ ; STIR for @1@ at #5# ; ADD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; ADD $4$ ; REFLUX for @4@ ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; STIR for @2@ at #4# ; CONCENTRATE ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $3$ dropwise at #4# ; STIR for @2@ ; QUENCH with ammonium hydroxide ; EXTRACT with dichloromethane ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; YIELD $-1$
+ADD $4$ ; ADD $5$ ; ADD $3$ ; ADD $1$ ; ADD $2$ ; REFLUX for @2@ ; SETTEMPERATURE #4# ; FILTER keep filtrate ; WASH with ethyl acetate ; WASH with ether ; WASH with sodium chloride ; DRYSOLUTION over sodium sulfate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; STIR for @2@ at #4# ; PARTITION with water and ethyl acetate ; PHASESEPARATION ; COLLECTLAYER organic ; COLLECTLAYER aqueous ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over Na2SO4 ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ ; STIR for @2@ at #4# ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $3$ ; STIR for @3@ at #6# ; SETTEMPERATURE #4# ; FILTER keep precipitate ; WASH with $2$ ; CONCENTRATE ; YIELD $-1$
+ADD $3$ at #4# ; ADD $1$ at #4# ; ADD $2$ at #4# ; REFLUX for @2@ ; CONCENTRATE ; ADD $2$ ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; MAKESOLUTION with $3$ and $4$ ; ADD SLN at #4# ; STIR for @4@ at #4# ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $4$ ; ADD $5$ ; ADD $3$ at #4# ; STIR for @4@ at #4# ; ADD $6$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over magnesium sulfate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ dropwise ; STIR for @4@ at #5# ; SETTEMPERATURE #4# ; PURIFY ; YIELD $-1$
+ADD $5$ ; ADD $1$ ; ADD $6$ ; ADD $3$ ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; ADD $2$ ; ADD $4$ ; WASH with water ; DRYSOLUTION over MgSO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $4$ ; ADD $1$ ; ADD $2$ at #1# ; ADD $5$ at #1# ; STIR for @2@ at #5# ; MAKESOLUTION with $3$ and $1$ ; ADD SLN at #1# ; SETTEMPERATURE #3# ; STIR for @2@ ; QUENCH with ammonium chloride ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over Na2SO4 ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $3$ ; ADD $4$ ; ADD $2$ ; STIR for @2@ at #4# ; ADD $5$ ; PHASESEPARATION ; COLLECTLAYER organic ; WASH with $5$ ; WASH with water ; WASH with brine ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $3$ at #4# ; STIR for @2@ at #4# ; CONCENTRATE ; ADD acetic acid ; ADD $5$ at #4# ; STIR for @3@ at #4# ; ADD $4$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; FILTER keep filtrate ; CONCENTRATE ; YIELD $-1$
+ADD $5$ ; ADD $3$ ; ADD $6$ ; ADD $2$ ; ADD $1$ ; STIR for @3@ at #6# ; ADD $4$ ; ADD $7$ ; PHASESEPARATION ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; STIR for @3@ at #5# ; CONCENTRATE ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $5$ ; ADD $3$ ; ADD $2$ ; ADD $1$ ; STIR at #4# ; ADD $4$ ; SETTEMPERATURE #4# ; FILTER keep precipitate ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $4$ ; ADD $1$ ; STIR for @1@ at #3# ; ADD $5$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $5$ ; CONCENTRATE ; ADD $2$ ; ADD $1$ ; MAKESOLUTION with $4$ and $2$ ; ADD SLN ; CONCENTRATE ; FILTER keep precipitate ; WASH with $2$ ; YIELD $-1$
+ADD $4$ ; ADD $1$ ; ADD $2$ ; ADD $5$ ; ADD $3$ ; STIR for @2@ ; FILTER keep precipitate ; WASH with $-1$ ; WASH with methanol ; WASH with $-1$ ; YIELD $-2$
+ADD $1$ ; ADD $2$ ; ADD $3$ ; STIR for @4@ at #4# ; CONCENTRATE ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $4$ ; ADD $1$ ; STIR for @4@ at #4# ; CONCENTRATE ; ADD dichloromethane ; COLLECTLAYER organic ; WASH with sodium chloride ; DRYSOLUTION over sodium sulfate ; FILTER keep filtrate ; CONCENTRATE ; ADD silica gel ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; STIR for @3@ at #4# ; CONCENTRATE ; YIELD $-1$
+ADD $1$ ; ADD $4$ ; ADD $5$ ; ADD $2$ ; SETTEMPERATURE #6# ; ADD $3$ ; WASH with water ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $4$ ; MAKESOLUTION with $3$ and $4$ ; ADD SLN dropwise over @2@ ; STIR for @2@ at #4# ; ADD $2$ ; WASH with water ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $5$ ; ADD $2$ ; ADD $4$ ; MAKESOLUTION with $1$ and $4$ ; ADD SLN ; SETTEMPERATURE #3# ; STIR for @2@ at #3# ; CONCENTRATE ; PURIFY ; ADD methanol / ammonia ; STIR for @4@ ; CONCENTRATE ; TRITURATE with ether ; WASH with ether ; DRYSOLID under vacuum ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $5$ ; ADD $1$ ; ADD $4$ ; STIR for @4@ at #4# ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $4$ ; ADD $2$ ; STIR for @3@ at #6# ; WAIT for @3@ at #6# ; SETTEMPERATURE #3# ; ADD ice water ; EXTRACT with ethyl acetate ; WASH with water ; WASH with brine ; DRYSOLUTION over magnesium sulfate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $3$ ; STIR for @4@ at #4# ; ADD $2$ ; WASH with NaHCO3 aq. ; ADD magnesium sulfate ; CONCENTRATE ; YIELD $-1$
+ADD $3$ ; ADD $7$ ; ADD $6$ ; ADD $1$ ; ADD $5$ ; MAKESOLUTION with $4$ and $2$ ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; PARTITION with $5$ and ethyl acetate ; COLLECTLAYER organic ; WASH with $5$ ; WASH with brine ; COLLECTLAYER organic ; DRYSOLUTION over MgSO4 ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ at #4# ; ADD $1$ at #4# ; ADD $2$ at #4# over @2@ ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ at #3# ; STIR for @2@ at #3# ; QUENCH with ammonium chloride ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $4$ ; REFLUX for @3@ ; ADD $1$ ; REFLUX for @2@ ; EXTRACT with $5$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over sodium sulfate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $5$ ; ADD $6$ at #4# ; STIR for @2@ at #4# ; CONCENTRATE ; ADD $4$ ; ADD $2$ ; STIR for @1@ at #4# ; ADD $1$ ; STIR for @4@ ; WASH with NaHCO3 ; COLLECTLAYER organic ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; DRYSOLUTION over MgSO4 ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $5$ ; ADD $6$ ; ADD $2$ ; ADD $4$ ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; FILTER keep precipitate ; WASH with ethyl acetate ; DRYSOLUTION ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ at #2# ; SETTEMPERATURE #4# ; STIR for @3@ at #4# ; ADD sodium chloride ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with water ; DRYSOLUTION over sodium sulfate ; FILTER keep filtrate ; CONCENTRATE ; YIELD $-1$
+ADD $4$ ; ADD $2$ ; ADD $5$ ; ADD $3$ ; STIR for @1@ at #4# ; ADD $1$ ; STIR for @4@ at #6# ; SETTEMPERATURE #4# ; FILTER keep precipitate ; WASH with ethanol ; ADD water ; STIR for @1@ ; FILTER keep precipitate ; WASH with water ; WASH with ethyl acetate ; WASH with ethanol ; DRYSOLID under vacuum ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $3$ ; STIR for @4@ at #4# ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ ; REFLUX for @3@ ; FILTER keep filtrate ; SETTEMPERATURE #4# ; CONCENTRATE ; RECRYSTALLIZE from ether ; YIELD $-1$
+ADD $2$ ; ADD $1$ ; ADD $4$ dropwise at #3# ; STIR for @4@ at #5# ; SETTEMPERATURE #4# ; ADD $3$ ; FILTER keep precipitate ; WASH with $3$ ; DRYSOLID ; PURIFY ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; REFLUX for @2@ ; CONCENTRATE ; ADD acetonitrile ; ADD $1$ dropwise ; STIR for @5@ at #4# ; CONCENTRATE ; ADD ethyl acetate ; WASH with water ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; YIELD $-1$
+ADD $4$ ; ADD $3$ ; MAKESOLUTION with $2$ and $3$ ; ADD SLN ; STIR for @2@ at #6# ; SETTEMPERATURE #4# ; ADD $1$ ; WASH with water ; WASH with brine ; DRYSOLUTION over magnesium sulfate ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $5$ ; ADD $4$ at #4# ; ADD $2$ at #4# ; STIR for @1@ at #4# ; ADD $3$ at #4# ; STIR for @4@ at #4# ; ADD water ; EXTRACT with dichloromethane ; COLLECTLAYER organic ; DRYSOLUTION over Na2SO4 ; FILTER keep filtrate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $4$ at #3# ; STIR for @1@ ; MAKESOLUTION with $2$ and $1$ ; ADD SLN ; SETTEMPERATURE #4# ; STIR for @2@ at #5# ; QUENCH with ammonium chloride ; ADD ethyl acetate ; WASH with water ; WASH with brine ; DRYSOLUTION over Na2SO4 ; FILTER keep filtrate ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $1$ ; STIR for @2@ at #5# ; SETTEMPERATURE #4# ; EXTRACT with ethyl acetate ; WASH with ethyl acetate ; WASH with water ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ ; ADD $4$ ; STIR for @4@ at #5# ; FILTER keep precipitate ; WASH with $1$ ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $5$ ; ADD $3$ ; ADD $1$ dropwise at #3# ; MAKESOLUTION with $2$ and $5$ and $3$ ; ADD SLN ; STIR for @2@ at #3# ; ADD $4$ ; EXTRACT with ether ; DRYSOLUTION over Na2SO4 ; CONCENTRATE ; YIELD $-1$
+ADD $5$ ; ADD $4$ ; ADD $7$ ; ADD $2$ ; ADD $1$ ; ADD $6$ ; ADD $3$ ; STIR for @4@ at #5# ; CONCENTRATE ; ADD $6$ ; ADD NaHCO3 ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with brine ; DRYSOLUTION over sodium sulfate ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $2$ ; ADD $5$ ; ADD $4$ ; ADD $1$ at #3# ; STIR for @5@ at #4# ; CONCENTRATE ; PURIFY ; COLLECTLAYER organic ; CONCENTRATE ; YIELD $-1$
+ADD $1$ ; ADD $4$ ; ADD $3$ ; ADD $5$ ; ADD $2$ ; STIR for @4@ at #6# ; ADD $5$ ; STIR for @4@ at #6# ; ADD $5$ ; STIR for @3@ at #6# ; ADD $2$ ; PURIFY ; CONCENTRATE ; CONCENTRATE ; YIELD $-1$
+ADD $2$ ; ADD $4$ ; ADD $5$ ; ADD $3$ ; ADD $1$ ; STIR for @2@ at #5# ; CONCENTRATE ; ADD ethyl acetate ; WASH with water ; DRYSOLUTION ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $1$ ; ADD $2$ ; ADD $4$ ; ADD $3$ dropwise over @2@ ; CONCENTRATE ; PURIFY ; YIELD $-1$
+ADD $3$ ; ADD $1$ ; ADD $2$ ; ADD $4$ ; STIR for @1@ ; ADD $5$ ; FILTER keep precipitate ; WASH with $5$ ; RECRYSTALLIZE from methanol ; YIELD $-1$
+ADD $2$ ; ADD $3$ ; ADD $4$ ; SETTEMPERATURE #4# ; MAKESOLUTION with $1$ and $2$ ; ADD SLN dropwise ; STIR for @2@ at #4# ; ADD $-1$ ; EXTRACT with ethyl acetate ; COLLECTLAYER organic ; WASH with sodium bicarbonate ; WASH with brine ; DRYSOLUTION over sodium sulfate ; CONCENTRATE ; PURIFY
